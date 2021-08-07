@@ -1,2 +1,2 @@
-# Codigos-Front-End
+# Edutech-Codigos-Front-End
 Códigos desenvolvidos nos cursos da Alura
